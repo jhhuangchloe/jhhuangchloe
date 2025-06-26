@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✨ This is Jiahe (Chloe) Huang.
-- 📫 chloehjh (at) umich (dot) edu
+- 📫 chloehuang (at) ucsd (dot) edu
 
 <a href="https://jhhuang.site/"><img src="https://github-readme-stats.vercel.app/api?username=jhhuangchloe&count_private=true&rank_icon=github&show_icons=true&theme=shadow_green" /></a>
 <p align="left"> 
